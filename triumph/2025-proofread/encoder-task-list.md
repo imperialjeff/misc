@@ -200,12 +200,6 @@ SSG - Internal Vice President (2022-2023), Public Information Officer (2021-2022
 - [ ] [HIGH] **Galon-Morino, Ivy B.** — Course: Change Course from "Doctor of Philosophy Major in Educational Psychology" → "Doctor of Philosophy in Educat major in Educational Psychology"
 - [ ] [HIGH] **Sabularse, Melgar B.** — Affiliations: Add missing affiliation: "Philipine Nurses Association (Active Member to present)"
 
-## School of Law and Governance (LAW)
-
-- [ ] [HIGH] **Bermudo, Divelyn T.** — College: Change College from "College of Law" → "School of Law and Governance"
-- [ ] [HIGH] **Gelotin, Deanne Caryl A.** — College: Change College from "College of Law" → "School of Law and Governance"
-- [ ] [HIGH] **Martinez JR., Rodrigo Anthony O.** — College: Change College from "College of Law" → "School of Law and Governance"
-
 ---
 
-**Total encoder tasks: 117**
+**Total encoder tasks: 114**
